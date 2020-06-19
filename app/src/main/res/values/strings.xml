@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">dblab</string>
+    <string name="empty">Empty</string>
+    <string name="description">Description</string>
+    <string name="age">Age</string>
+    <string name="breed">Breed</string>
+    <string name="back">Back</string>
+    <string name="add">Add</string>
+    <string name="name">Name</string>
+    <string name="delete_record">Delete record</string>
+    <string name="add_dog">add dog</string>
+</resources>
